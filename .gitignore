@@ -1,0 +1,6 @@
+node_modules/
+images/**
+report.min.css
+report.min.js
+index.html
+data.js
