@@ -10,7 +10,12 @@ module.exports = {
             desiredCapabilities: {
                 browserName: 'chrome'
             },
-            compositeImage: true
+            compositeImage: true,
+            windowSize: {
+                width: 1440,
+                height: 1600
+            },
+            screenshotDelay: 1600
         }
     },
     

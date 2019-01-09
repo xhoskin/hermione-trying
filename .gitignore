@@ -1,5 +1,6 @@
 node_modules/
 images/**
+hermione/**
 report.min.css
 report.min.js
 index.html

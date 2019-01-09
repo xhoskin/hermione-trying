@@ -1,0 +1,16 @@
+{
+    "files.exclude": {
+        "node_modules/[a-f]*/": true,
+        "node_modules/[i-z]*/": true,
+        "node_modules/g[a-d]*/": true,
+        "node_modules/get*/": true,
+        "node_modules/g[f-z]*/": true,
+        "node_modules/h[a-d]*/": true,
+        "node_modules/head*/": true,
+        "node_modules/h[f-z]*/": true,
+        "node_modules/@mrm*/": true,
+        "node_modules/@nodelib/": true,
+        "node_modules/.bin/": true,
+        "node_modules/JSON*/": true
+    }
+}
